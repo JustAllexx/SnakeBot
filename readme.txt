@@ -4,3 +4,4 @@
 -run the snakeMAIN.py
 -add the bot to your server using your own token
 -keep the console running for as long as you want the bot to be online
+-Use "s/help" in server for commands
