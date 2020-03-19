@@ -1,0 +1,6 @@
+-Download all files in repository and put them all in one folder
+-Using pip, install discord.py
+-add your token to the bottom of the snakeMAIN.py (where it says "YOUR TOKEN") file before running it
+-run the snakeMAIN.py
+-add the bot to your server using your own token
+-keep the console running for as long as you want the bot to be online
